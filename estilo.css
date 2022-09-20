@@ -1,0 +1,56 @@
+body h1,h2,h3,h4,h5{
+    color: rgb(240, 240, 255)
+}
+.topo{
+    height: 200px;
+    background-image: url("img/header.png");
+    background-size: cover;
+}
+
+.foto-perfil{
+    height: 200px;
+    width: 200px;
+    background-color: #212529;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.img-perfil{
+    height: 100%;
+    width: auto;    
+}
+
+.centralizar-vertical{
+    display: flex;
+    justify-content: center;
+}
+
+.titulo{
+    padding-left: 20px;
+}
+.img-icone{
+    height: 50px;
+    width: 50px;
+}
+
+.navegacao{
+    background-color: #212529;
+}
+
+.navegacao a{
+    border-radius: 0;
+}
+.fundo{
+    background-color: #212529 ;
+    color:rgb(240, 240, 255);
+    border-radius: 15px 5px;
+
+}
+
+ul{
+    list-style-type: none;
+}
+
+footer{
+    height: 100px;
+}
